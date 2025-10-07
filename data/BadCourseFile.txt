@@ -1,0 +1,9 @@
+123456789, CP317, 85, 70, 90          # Only 3 grades instead of 4
+123456789, CP317, 85, ninety, 80, 60  # Non-numeric grade
+, CP317, 90, 90, 90, 90               # Missing student ID
+123456789, CP317                      # Not enough fields
+123456789 CP317 85 70 90 60           # No commas
+badid, CP317, 85, 70, 90, 60          # Invalid ID format
+999999999, CP317, 85, 70, 90, 60      # ID not in NameFile
+237711821, PS262, 55, 96, 75, 95
+113820457, ST494, 70, 95, 54, 62
