@@ -1,7 +1,0 @@
-123456789             # Missing name
-, John Doe            # Missing ID
-abcd1234, Jane Smith  # Invalid ID (non-numeric)
-                      # Blank line
-123, Mark, Smith      # Too many commas
-237711821, Saara Beattie
-113820457, Emre Lowry
