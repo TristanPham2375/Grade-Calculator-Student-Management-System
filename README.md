@@ -27,19 +27,19 @@ This project demonstrates core Java concepts such as **inheritance, encapsulatio
    git clone https://github.com/yourusername/grade-calculator.git
    ```
 2. Navigate to the project directory:
-```bash
-cd grade-calculator
-```
+   ```bash
+   cd grade-calculator
+   ```
 3. Compile all Java files:
-```bash
-javac *.java
-```
+   ```bash
+   javac *.java
+   ```
 4. Run the main class:
-```bash
-java Main
-```
+   ```bash
+   java Main
+   ```
 
-🧱 Concepts Demonstrated
+### 🧱 Concepts Demonstrated
 
 Object-Oriented Design (Inheritance & Encapsulation)
 
@@ -49,7 +49,7 @@ Modular and reusable code structure
 
 Console-based user interaction
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Add data persistence (save/load from files)
 
