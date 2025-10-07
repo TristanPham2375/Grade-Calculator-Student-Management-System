@@ -5,27 +5,6 @@ This project demonstrates core Java concepts such as **inheritance, encapsulatio
 
 ---
 
-## 📁 Project Structure
-
-├── Course.java
-├── GradeCalculator.java
-├── Main.java
-├── Person.java
-└── Student.java
-
-markdown
-Copy code
-
-### File Descriptions
-
-- **`Person.java`** – Base class representing a person, containing shared attributes (e.g., name, ID).  
-- **`Student.java`** – Subclass of `Person`, representing a student with enrolled courses and grade information.  
-- **`Course.java`** – Models a course, including course code, title, and grade components.  
-- **`GradeCalculator.java`** – Contains logic for calculating weighted averages or final grades based on assignments, exams, etc.  
-- **`Main.java`** – The entry point of the program. Handles user input/output and integrates all classes.
-
----
-
 ## 🧠 Features
 
 - Add and manage student information  
@@ -59,3 +38,24 @@ javac *.java
 ```bash
 java Main
 ```
+
+🧱 Concepts Demonstrated
+
+Object-Oriented Design (Inheritance & Encapsulation)
+
+Class Relationships (Person → Student → Course)
+
+Modular and reusable code structure
+
+Console-based user interaction
+
+🚀 Future Improvements
+
+Add data persistence (save/load from files)
+
+Introduce GUI using JavaFX or Swing
+
+Support multiple grading schemes
+
+Integrate GPA and transcript generation
+
