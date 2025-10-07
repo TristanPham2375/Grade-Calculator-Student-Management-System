@@ -41,21 +41,19 @@ This project demonstrates core Java concepts such as **inheritance, encapsulatio
 
 ### 🧱 Concepts Demonstrated
 
-Object-Oriented Design (Inheritance & Encapsulation)
-
-Class Relationships (Person → Student → Course)
-
-Modular and reusable code structure
-
-Console-based user interaction
+- Object-Oriented Design (Inheritance & Encapsulation)
+- Class Relationships (Person → Student → Course)
+- Modular and reusable code structure
+-Console-based user interaction
 
 ### 🚀 Future Improvements
 
-Add data persistence (save/load from files)
+- Add data persistence (save/load from files)
+- Introduce GUI using JavaFX or Swing
+- Support multiple grading schemes
+- Integrate GPA and transcript generation
 
-Introduce GUI using JavaFX or Swing
+### Contributors
 
-Support multiple grading schemes
-
-Integrate GPA and transcript generation
+Nguyen Hai Trung Pham, Wilfred William, Nicole Murison, Delaney Regehr
 
